@@ -1,0 +1,1 @@
+The Beginning of the creation of the News247 web application
