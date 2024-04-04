@@ -1,7 +1,7 @@
 div {
 display: flex;
 flex-direction: column;
-height: 100%;
+/* padding: 30px; auto; */
 }
 
 * {
@@ -60,6 +60,14 @@ nav {
 	align-self: center;
 	margin-right: 40px;
 }
+figure {
+	border: 1px solid black;
+}
+
+
+.card {
+	padding: 30px 0px;
+}
 
 .card figure {
 	display: flex;
@@ -75,7 +83,7 @@ aside {
 
 .card > figure > img {
 	width: 65%;
-	height: 70%;
+	height: 100%;
 }
 
 figcaption {
